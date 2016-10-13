@@ -1,6 +1,6 @@
 {
   "name": "strip-formatting",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Removes leading whitespace from each line of input",
   "main": "lib/index.js",
   "scripts": {
