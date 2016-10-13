@@ -19,7 +19,7 @@ Removes leading whitespace from each line of input
 <!-- VDOC END -->
 
 ```javascript
-var stripFormatting = require('strip-formatting')
+const stripFormatting = require('strip-formatting')
 stripFormatting(`
 <html>
   <head>
